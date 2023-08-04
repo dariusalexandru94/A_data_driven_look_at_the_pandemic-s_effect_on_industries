@@ -10,6 +10,6 @@ For my research, I used the first dataset from the list, while the next three da
 
 * https://www.kaggle.com/datasets/takahirokubo0/annual-financial-data-for-hybrid-cdp-kpi
 
-* https://www.nasdaq.com/market-activity/stocks/screener - csv ticker symbols
+* https://www.nasdaq.com/market-activity/stocks/screener - csv ticker symbols;
 
-* https://eoddata.com/stocklist/NYSE/A.htm - tickers list
+* https://eoddata.com/stocklist/NYSE/A.htm - tickers list.
